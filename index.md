@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Publications
 
-My [Google scholar](https://scholar.google.com/citations?user=ZTHZDoAAAAAJ&hl=en), CV.
+My [Google scholar](https://scholar.google.com/citations?user=ZTHZDoAAAAAJ&hl=en), [CV](https://github.com/jingyanxu/test/settings).
