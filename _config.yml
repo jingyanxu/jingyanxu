@@ -1,6 +1,7 @@
-title: Minimal theme
+title: Jingyan Xu's webpage
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: Jingyan Xu's webpage
+logo:/assets/img/Capture.PNG
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
