@@ -32,6 +32,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jingyanxu/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Publications
+### Publications and CV
 
 My [Google scholar](https://scholar.google.com/citations?user=ZTHZDoAAAAAJ&hl=en), [CV](https://github.com/jingyanxu/test/CV-jxu-github.pdf).
