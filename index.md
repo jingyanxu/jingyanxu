@@ -1,6 +1,6 @@
 ## About myself
 
-I am an Assistant Professor in the Department of Radiology at Johns Hopkins University.  My research focuses on medical image reconstruction, and image quality evaluation. 
+I am an Assistant Professor in the Department of Radiology at Johns Hopkins University.  My research focuses on medical image reconstruction and image quality evaluation. Recently I am starting to combine machine learning methods and model based image reconstruction to improve diagnosis.
 
 
 ### Research interest
