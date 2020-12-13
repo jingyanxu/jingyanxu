@@ -30,7 +30,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Research interest
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jingyanxu/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Inverse problems, image reconstruction in SPECT, PET, and x-ray CT
+- Machine learning for medical imaging applications
+
 
 ### Publications and CV
 
