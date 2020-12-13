@@ -1,32 +1,7 @@
 ## About myself
 
-You can use the [editor on GitHub](https://github.com/jingyanxu/test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am an Assistant Professor in the Department of Radiology at Johns Hopkins University.  My research focuses on medical image reconstruction, and image quality evaluation. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Research interest
 
