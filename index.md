@@ -11,4 +11,4 @@ I am an Assistant Professor in the Department of Radiology at Johns Hopkins Univ
 
 ### Publications and CV
 
-My [Google scholar](https://scholar.google.com/citations?user=ZTHZDoAAAAAJ&hl=en), [CV](https://jingyanxu.github.io/jingyanxu/CV-jxu-github.pdf).
+My [Google scholar](https://scholar.google.com/citations?user=ZTHZDoAAAAAJ&hl=en), [CV](https://jingyanxu.github.io/CV-jxu-github.pdf).
