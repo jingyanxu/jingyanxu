@@ -8,6 +8,9 @@ I am an Assistant Professor in the Department of Radiology at Johns Hopkins Univ
 - Inverse problems, image reconstruction in SPECT, PET, and x-ray CT
 - Machine learning for medical imaging applications
 
+### Recent works
+
+- [Hyperparameter learning for CT](https://github.com/jingyanxu/Patient-specific_hyperparameter_learning_CT)
 
 ### Publications and CV
 
