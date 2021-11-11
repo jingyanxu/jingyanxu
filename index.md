@@ -11,6 +11,7 @@ I am an Assistant Professor in the Department of Radiology at Johns Hopkins Univ
 ### Recent works
 
 - [Hyperparameter learning for CT](https://github.com/jingyanxu/Patient-specific_hyperparameter_learning_CT)
+- [A review paper on convex optimization for image reconstruction in the age of AI](https://doi.org/10.1088/1361-6560/ac3842)
 
 ### Publications and CV
 
